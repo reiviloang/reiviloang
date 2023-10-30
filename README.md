@@ -52,66 +52,38 @@ At [Otovo](https://www.otovo.no) I am currently bringing solar power to the peop
 </tr>
 <tr>
     <td>Backend</td>
-    <td>
-    <a href="https://www.python.org/" title="Python">
-        <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python Icon' height='32'>
-    </a>
-    <a href="https://www.djangoproject.com/" title="Django">
-        <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg' alt='Django Icon' height='32'>
-    </a>
-    <a href="https://graphql.org/" title="GraphQL">
-        <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg' alt='GraphQL Icon' height='32'>
-    </a>
-    <a href="https://www.java.com/" title="Java">
-        <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg' alt='Java Icon' height='32'>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
-        <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg' alt='Spring Icon' height='32'>
-    </a>    
-    </td>
+            <td>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=python,django,java,spring,graphql" />
+            </a>
+        </td>
+
 </tr>
-<tr>
-    <td>Frontend</td>
-    <td>
-          <a href="https://fr.react.dev/" title="React">
-        <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg' alt='React Icon' height='32'>
-    </a>
-    <a href='https://vuejs.org/' title="Vue.js">
-        <img src='https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg' alt='Vue.js Icon' height='32'>
-    </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' alt='javascript' height='32'>
-        </a>
-        <a href="https://blazejs.org" title="Tailwind CSS">
-            <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwind css icon' height='32'>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML 5">
-            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg' alt='HTML Icon' height='32'>
-        </a>
-        <a href="https://fontawesome.com" title="Fontawesome 5 and 6">
-            <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fontawesome.svg' alt='fontaweseome icon' height='32'>
-        </a>
-    <a href="https://www.apollographql.com/" title="Apollo">
-        <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg' alt='Apollo Icon' height='32'>
-    </a>
-    </td>
-</tr>
-<tr>
-    <td>Testing</td>
-    <td>
-        <a href="https://jestjs.io/" title="Jest">
-            <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg' alt='jest icon' height='32'>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td>Infrastructure</td>
-    <td>
-       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,vim" />
-  </a>
-    </td>
-</tr>  
+ <tr>
+        <td>Frontend</td>
+        <td>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,apollo" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=jest,vite" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>Infrastructure</td>
+        <td>
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws" />
+            </a>
+        </td>
+    </tr>
+
 <tr>
     <td>Mobile</td>
     <td>
